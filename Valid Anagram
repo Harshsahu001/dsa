@@ -1,3 +1,4 @@
+1st Mehtod
 class Solution {
     public boolean isAnagram(String s, String t) {
          char temp1[] = s.toCharArray();
@@ -22,3 +23,26 @@ class Solution {
     return true;
     }
 }
+
+
+
+2nd Method
+class Solution {
+    public boolean isAnagram(String s, String t) {
+       s.toLowerCase();
+       t.toLowerCase();
+       char []c=s.toCharArray();
+       char []f=t.toCharArray();
+       Arrays.sort(c);
+       Arrays.sort(f);
+       if(Arrays.equals(c,f))
+       {
+           return true;
+       }
+       else
+       {
+           return false;
+       }
+}
+}
+
