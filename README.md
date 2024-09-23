@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshsahu001/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Harshsahu001/dsa/tree/master/0392-is-subsequence) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Harshsahu001/dsa/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 ## String
 |  |
@@ -19,6 +20,7 @@
 | [0014-longest-common-prefix](https://github.com/Harshsahu001/dsa/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Harshsahu001/dsa/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/Harshsahu001/dsa/tree/master/0812-rotate-string) |
 | [1542-consecutive-characters](https://github.com/Harshsahu001/dsa/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/Harshsahu001/dsa/tree/master/1651-shuffle-string) |
@@ -35,6 +37,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0392-is-subsequence](https://github.com/Harshsahu001/dsa/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
