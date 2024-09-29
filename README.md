@@ -21,6 +21,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Harshsahu001/dsa/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/Harshsahu001/dsa/tree/master/0409-longest-palindrome) |
 | [0812-rotate-string](https://github.com/Harshsahu001/dsa/tree/master/0812-rotate-string) |
 | [1542-consecutive-characters](https://github.com/Harshsahu001/dsa/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/Harshsahu001/dsa/tree/master/1651-shuffle-string) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/Harshsahu001/dsa/tree/master/0409-longest-palindrome) |
 ## Queue
 |  |
 | ------- |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Harshsahu001/dsa/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
