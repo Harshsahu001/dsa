@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshsahu001/dsa/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Harshsahu001/dsa/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Harshsahu001/dsa/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Harshsahu001/dsa/tree/master/0067-add-binary) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Harshsahu001/dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
