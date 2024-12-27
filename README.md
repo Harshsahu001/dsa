@@ -78,4 +78,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshsahu001/dsa/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Harshsahu001/dsa/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
