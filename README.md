@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshsahu001/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Harshsahu001/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Harshsahu001/dsa/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1651-shuffle-string](https://github.com/Harshsahu001/dsa/tree/master/1651-shuffle-string) |
 ## Dynamic Programming
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Harshsahu001/dsa/tree/master/0175-combine-two-tables) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Harshsahu001/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
