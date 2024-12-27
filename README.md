@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshsahu001/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0347-top-k-frequent-elements](https://github.com/Harshsahu001/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshsahu001/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Harshsahu001/dsa/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1651-shuffle-string](https://github.com/Harshsahu001/dsa/tree/master/1651-shuffle-string) |
@@ -47,6 +48,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshsahu001/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Harshsahu001/dsa/tree/master/0409-longest-palindrome) |
 ## Queue
@@ -56,6 +58,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshsahu001/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
@@ -87,4 +90,24 @@
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshsahu001/dsa/tree/master/0540-single-element-in-a-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshsahu001/dsa/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshsahu001/dsa/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshsahu001/dsa/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshsahu001/dsa/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshsahu001/dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
