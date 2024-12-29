@@ -4,11 +4,9 @@ class Solution {
         int i=0;
         String res=" ";
         int mal=0;
-        int mil=999;
         for(String str : array)
         {
             mal =Math.max(str.length(),mal);
-            mil =Math.min(str.length(),mil);
         }
         ArrayList<String> result= new ArrayList<>();
         for(i=0;i<mal;i++)
@@ -26,15 +24,16 @@ class Solution {
                   res+=" ";
                 }
             }
-            for(int k =res.length()-1;k>=0;k--)
-            {
-                if(res.charAt(k)!=' ')
-                {
-                    res=res.substring(0,k+1);
-                    break;
-                }
-            }
-            result.add(res);
+            // for(int k =res.length()-1;k>=0;k--)
+            // {
+            //     if(res.charAt(k)!=' ')
+            //     {
+            //         res=res.substring(0,k+1);
+            //         break;
+            //     }
+            // }
+            
+            result.add(res.stripTrailing());
         }
     return result;
     }
