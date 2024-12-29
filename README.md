@@ -93,6 +93,7 @@
 | [0182-duplicate-emails](https://github.com/Harshsahu001/dsa/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Harshsahu001/dsa/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/Harshsahu001/dsa/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/Harshsahu001/dsa/tree/master/0584-find-customer-referee) |
 ## Binary Search
 |  |
 | ------- |
