@@ -9,6 +9,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Harshsahu001/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshsahu001/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Harshsahu001/dsa/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [1449-print-words-vertically](https://github.com/Harshsahu001/dsa/tree/master/1449-print-words-vertically) |
 | [1651-shuffle-string](https://github.com/Harshsahu001/dsa/tree/master/1651-shuffle-string) |
 ## Dynamic Programming
 |  |
@@ -29,6 +30,7 @@
 | [0412-fizz-buzz](https://github.com/Harshsahu001/dsa/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/0434-number-of-segments-in-a-string) |
 | [0812-rotate-string](https://github.com/Harshsahu001/dsa/tree/master/0812-rotate-string) |
+| [1449-print-words-vertically](https://github.com/Harshsahu001/dsa/tree/master/1449-print-words-vertically) |
 | [1542-consecutive-characters](https://github.com/Harshsahu001/dsa/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/Harshsahu001/dsa/tree/master/1651-shuffle-string) |
 ## String Matching
@@ -74,6 +76,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Harshsahu001/dsa/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Harshsahu001/dsa/tree/master/0412-fizz-buzz) |
+| [1449-print-words-vertically](https://github.com/Harshsahu001/dsa/tree/master/1449-print-words-vertically) |
 ## Bit Manipulation
 |  |
 | ------- |
