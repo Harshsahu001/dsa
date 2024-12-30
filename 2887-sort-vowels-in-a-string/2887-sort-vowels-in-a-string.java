@@ -1,16 +1,11 @@
 class Solution {
     public String sortVowels(String s) {
-        String con ="";
         String vow= "";
         for(int i=0;i<s.length();i++)
         {
-           if ("aeiouAEIOU".indexOf(s.charAt(i)) == -1)
+           if ("aeiouAEIOU".indexOf(s.charAt(i)) != -1)
             {
-               con+=s.charAt(i);
-            }
-            else{
-                 vow+=s.charAt(i);
-                
+               vow+=s.charAt(i);
             }
         }
         char [] arr= vow.toCharArray();
