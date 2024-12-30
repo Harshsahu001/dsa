@@ -34,6 +34,7 @@
 | [1449-print-words-vertically](https://github.com/Harshsahu001/dsa/tree/master/1449-print-words-vertically) |
 | [1542-consecutive-characters](https://github.com/Harshsahu001/dsa/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/Harshsahu001/dsa/tree/master/1651-shuffle-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/2887-sort-vowels-in-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Harshsahu001/dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Harshsahu001/dsa/tree/master/0347-top-k-frequent-elements) |
+| [2887-sort-vowels-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/2887-sort-vowels-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
