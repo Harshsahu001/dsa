@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshsahu001/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/Harshsahu001/dsa/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Harshsahu001/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshsahu001/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Harshsahu001/dsa/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -123,4 +124,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Harshsahu001/dsa/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Harshsahu001/dsa/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
