@@ -8,6 +8,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshsahu001/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Harshsahu001/dsa/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Harshsahu001/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Harshsahu001/dsa/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshsahu001/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Harshsahu001/dsa/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1449-print-words-vertically](https://github.com/Harshsahu001/dsa/tree/master/1449-print-words-vertically) |
@@ -57,6 +58,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Harshsahu001/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Harshsahu001/dsa/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/Harshsahu001/dsa/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshsahu001/dsa/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Harshsahu001/dsa/tree/master/0496-next-greater-element-i) |
 ## Database
 |  |
 | ------- |
@@ -128,4 +131,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harshsahu001/dsa/tree/master/0238-product-of-array-except-self) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Harshsahu001/dsa/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
