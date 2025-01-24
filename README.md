@@ -80,6 +80,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Harshsahu001/dsa/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Harshsahu001/dsa/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Harshsahu001/dsa/tree/master/0412-fizz-buzz) |
 ## Simulation
