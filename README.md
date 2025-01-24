@@ -28,6 +28,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Harshsahu001/dsa/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Harshsahu001/dsa/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Harshsahu001/dsa/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Harshsahu001/dsa/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Harshsahu001/dsa/tree/master/0409-longest-palindrome) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/Harshsahu001/dsa/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Harshsahu001/dsa/tree/master/0392-is-subsequence) |
 | [3195-separate-black-and-white-balls](https://github.com/Harshsahu001/dsa/tree/master/3195-separate-black-and-white-balls) |
 ## Hash Table
