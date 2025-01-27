@@ -17,12 +17,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harshsahu001/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshsahu001/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Harshsahu001/dsa/tree/master/0392-is-subsequence) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Harshsahu001/dsa/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harshsahu001/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Harshsahu001/dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Harshsahu001/dsa/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -53,6 +55,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harshsahu001/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Harshsahu001/dsa/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Harshsahu001/dsa/tree/master/0392-is-subsequence) |
