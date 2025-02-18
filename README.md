@@ -8,6 +8,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshsahu001/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Harshsahu001/dsa/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Harshsahu001/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/Harshsahu001/dsa/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Harshsahu001/dsa/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshsahu001/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0878-shifting-letters](https://github.com/Harshsahu001/dsa/tree/master/0878-shifting-letters) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Harshsahu001/dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Harshsahu001/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/Harshsahu001/dsa/tree/master/0414-third-maximum-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/Harshsahu001/dsa/tree/master/2887-sort-vowels-in-a-string) |
 ## Heap (Priority Queue)
 |  |
